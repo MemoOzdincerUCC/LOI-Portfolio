@@ -3,9 +3,9 @@
 
 export const SITE_TITLE = "LOI@UCC";
 export const SITE_DESCRIPTION =
-  "A portoflio of projects and initatives led by the League of Innovators club at Upper Canada College";
+    "A portoflio of projects and initatives led by the League of Innovators club at Upper Canada College";
 export const TWITTER_HANDLE = "@yourtwitterhandle";
-export const MY_NAME = "Memo Ozdincer & Aarav Dogra";
+export const MY_NAME = "GABE Memo Ozdincer & Aarav Dogra";
 
 // setup in astro.config.mjs
 const BASE_URL = new URL(import.meta.env.SITE);
